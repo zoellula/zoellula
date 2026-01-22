@@ -4,7 +4,7 @@ Jika kamu tertarik untuk terhubung dengan saya, silakan follow akun [Linkedin](h
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/zoellula">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zoellula&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zoellula&layout=compact&theme=algolia"/>
 </a>
