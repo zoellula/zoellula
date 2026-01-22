@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Perkenalkan nama saya **Zulfa Nurul**.<br>
+Jika kamu tertarik untuk terhubung dengan saya, silakan follow akun [Linkedin](https://www.linkedin.com/in/zoellula/) ya.
 <!--
 **zoellula/zoellula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
